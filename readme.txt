@@ -1,2 +1,3 @@
-Using Git as version control
+Using Git as distributed  version control
 Git is a free software
+Git exploring
